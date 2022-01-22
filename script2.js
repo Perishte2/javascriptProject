@@ -1,7 +1,9 @@
 'use strict';   //we are using ES6
 
-let a=5;
-console.log(a);
+//let a=5;
+//console.log(a);
+
+alert('Hello world');
 
 //alert("Hello World!");
 
