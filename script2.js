@@ -38,7 +38,8 @@ console.log(decr--);  */
 //.log("2" == 2);
 //console.log("2" === 2);
 
-
+//GIT
 //commits in git are used for tracking for creating control points
 //after adding files into git it tracks after all added files
 
+//git log- is used for seeing all created commits
